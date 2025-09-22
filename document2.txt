@@ -1,4 +1,5 @@
-// C program for Merge Sort
+오때론 난망가져갈지도모르지 허나젊음엔 그건중요한게아니야
+밤을달리자 
 #include <stdio.h>
 #include <stdlib.h>
 

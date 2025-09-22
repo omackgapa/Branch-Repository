@@ -1,4 +1,4 @@
-def partition(l, r, nums):
+def partition(hello                     ^^):
     # Last element will be the pivot and the first element the pointer
     pivot, ptr = nums[r], l
     for i in range(l, r):
@@ -33,4 +33,4 @@ example = [2, 5, 6, 1, 4, 6, 2, 4, 7, 8]
 result = [1, 2, 2, 4, 4, 5, 6, 6, 7, 8]
 # As you can see, it works for duplicates too
 print(quicksort(0, len(example)-1, example))
-print('오때론난망가져갈지도모르지허나젊음엔그건중요한게아니야')
+print('오때론난망가져갈지도모르지허나젊음엔그건중요한게아니야l, r, nums')
